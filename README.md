@@ -5,5 +5,6 @@ traffic_sign_identification為訓練辨識模型
 main為GUI介面
 GUI介面所用到的model已經事先訓練好並儲存在traffic_sign_identification_new2.h5這個檔案中
 所以這裡就不付上當初訓練的資料庫了
+test_image中儲存的為測試照片，可以將它丟入GUI介面辨識看看
 
-若有興趣可以點擊這個連結去下載資料→https://benchmark.ini.rub.de/
+若有興趣可以點擊這個連結去下載資料集→https://benchmark.ini.rub.de/
