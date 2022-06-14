@@ -13,6 +13,9 @@ test_image中儲存的為測試照片，可以將它丟入GUI介面辨識看看
 卷積神經網路→https://reurl.cc/M0VvGn
 
 上課講義參考:
+
 游濟華教授課堂講義，”Fundamentals of Machine Learning”
+
 江維鈞教授講義，”Neural Networks”
+
 江維鈞教授講義 ，”Training Deep Learning Models”
